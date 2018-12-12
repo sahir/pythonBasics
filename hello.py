@@ -1,2 +1,4 @@
+# using input 
+
 first_name = input("what is your first name? ");
-print(first_name);
+print("Your first name ", first_name );
